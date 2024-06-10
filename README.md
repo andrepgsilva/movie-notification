@@ -3,12 +3,12 @@
 The project's goal is handle movie subscriptions using Google Pub.
 
 ## Tools
-. Laravel
-. Laravel Sail
-. Docker
-. MySQL
-. Google Pub/Sub
+- Laravel
+- Laravel Sail
+- Docker
+- MySQL
+- Google Pub/Sub
 
 # Run Project
-. composer install
-. ./vendor/bin/sail up
+- composer install
+- ./vendor/bin/sail up
